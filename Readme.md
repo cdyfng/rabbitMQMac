@@ -12,7 +12,7 @@
 ```text
 brew update
 brew install rabbitmq
-
+```
 
 - Add New User
 /usr/local/sbin/rabbitmqctl list_users
